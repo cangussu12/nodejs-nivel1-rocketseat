@@ -1,0 +1,15 @@
+{
+  "name": "nivel1",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch src/server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "csv-stringify": "^6.5.1"
+  }
+}
